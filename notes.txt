@@ -1,0 +1,2 @@
+Ghi chú thực hành Git.
+Bài 2: Thực hành commit nhiều lần.
